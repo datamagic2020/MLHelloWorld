@@ -8,7 +8,7 @@ If you want to run this program from windows command prompt then,
 - download this project and extract it
 - open command prompt and change directory to your project folder
 - then run : python hello_world.py
-[Make sure you have installed python on your windows machine and set it python home directory in PATH environment variable]
+[Make sure you have installed python on your windows machine and set the python home directory in PATH environment variable]
 
 
   
